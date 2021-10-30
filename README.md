@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juhutchinson
 - 👀 I’m interested in UI, Frontend-related learning, ember.js learning!
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on accessibility on the web
+- 🌱 I’m currently learning ember octane
+- 💞️ I’m looking to collaborate on web-ember related PR
 - 📫 How to reach me ...
 
 <!---
